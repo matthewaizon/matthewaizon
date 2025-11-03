@@ -10,7 +10,7 @@
 
 <p align="justify">
     Hi there!  I’m <b>Matthew Centeno</b>, a <i>Computer Engineering</i> graduate with a passion for <i>software development</i> and <i>AI systems</i>.
-    When I was young I've always dreamed of becoming a full fledged programmer. Futhermore, my specializations are <i>Python coding, machine learning and APIs</i>.
+    When I was young I've always dreamed of becoming a full fledged programmer. Furthermore, my specializations are <i>Python coding, machine learning and APIs</i>.
     I love discovering and learning different kinds of programs, from Python automation to full-stack web applications.
 </p>
 
