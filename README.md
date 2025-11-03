@@ -1,7 +1,7 @@
 <img align="right" height="227" src="https://media.tenor.com/iCqG_iT-h48AAAAM/bills-ugh.gif"  />
 
 <div align="center">
-    <img src="https://streak-stats.demolab.com?user=matthewaizon&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+    <img src="https://streak-stats.demolab.com?user=matthewaizon&locale=en&mode=weekly&theme=tokyonight&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
 </div>
 
 <h1 align="center">Computer Engineering Graduate</h1>
