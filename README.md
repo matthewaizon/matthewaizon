@@ -4,21 +4,21 @@
     <img src="https://streak-stats.demolab.com?user=matthewaizon&locale=en&mode=weekly&theme=tokyonight&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
 </div>
 
-<h1 align="center">Computer Engineering Graduate</h1>
+<h1 align="center">Software Quality Assurance Engineer</h1>
 
 <h3 align="left">About Me</h3>
 
 <p align="justify">
-    Hi there!  I’m <b>Matthew Centeno</b>, a <i>Computer Engineering</i> graduate with a passion for <i>software development</i> and <i>AI systems</i>.
-    When I was young I've always dreamed of becoming a full fledged programmer. Furthermore, my specializations are <i>Python coding, machine learning and APIs</i>.
-    I love discovering and learning different kinds of programs, from Python automation to full-stack web applications.
+    Hi there!  I’m <b>Matthew Centeno</b>, a <i>Software QA Engineering</i> with a passion for <i>software development</i> and <i>devops</i>.
+    When I was young, I've always dreamed of becoming a full-fledged programmer. Furthermore, my specializations are <i>Python testing, embedded systems, linux and devops infra.</i>.
+    I love discovering and learning different kinds of programs, from Python automation to embedded systems.
 </p>
 
 <ul>
     <li><b>Degree</b>: BS in Computer Engineering</li>
-    <li><b>Interests</b>: Software Development, Machine Learning, RestAPI</li>
+    <li><b>Interests</b>: Software Development, Testing, DevOps</li>
     <li><b>Learning</b>: Automation in Python</li>
-    <li><b>Projects</b>: Check out my repositories for my work on python, machine learning, and web systems </li>
+    <li><b>Projects</b>: Check out my repositories for my work </li>
 </ul>
 
 <br>
